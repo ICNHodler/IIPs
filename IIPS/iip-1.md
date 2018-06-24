@@ -9,7 +9,7 @@ created: 2018-06-24
 
 ## What is an IIP?
 
-IIP stands for ICONOMI Improvement Proposal. An IIP describes an idea about to improve ICONOMI (the digital assets management platform). An IIP should follow a standard format which helps to structure the idea and ensure a minimum level of thought / effort has been put in to it.
+IIP stands for ICONOMI Improvement Proposal. An IIP describes an idea about how to improve ICONOMI (the digital assets management platform). An IIP should follow a standard format which helps to structure the idea and ensure a minimum level of thought / effort has been put in to it.
 
 ## IIP Motivation
 
