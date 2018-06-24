@@ -20,10 +20,10 @@ IIPs encourage community members to document their ideas at length and in their 
 ## IIP Categories
 
 There are four categories of IIP:
-- Community: Ideas on how to strengthen community relations or how to help expand / organise the community.
-- Marketing: Ideas on how to improve marketing of anything ICONOMI related - be it DAAs, the ICN token, jobs / roles that need filled etc.. 
-- Platform: Ideas on how to improve the ICONOMI platform itself which may include new features, new data, UX improvements etc..   
-- Operations: Ideas on how to improve productivity, efficiency, reduce costs etc...
+- **Community**: Ideas on how to strengthen community relations or how to help expand / organise the community.
+- **Marketing**: Ideas on how to improve marketing of anything ICONOMI related - be it DAAs, the ICN token, jobs / roles that need filled etc.. 
+- **Platform**: Ideas on how to improve the ICONOMI platform itself which may include new features, new data, UX improvements etc..   
+- **Operations**: Ideas on how to improve productivity, efficiency, reduce costs etc...
 
 ## IIP Status
 
@@ -38,11 +38,11 @@ There are four categories of IIP:
 
 Each IIP should have the following parts:
 
-- Preamble - RFC 822 style headers containing metadata about the IIP, including the IIP number, a short descriptive title (limited to a maximum of 44 characters), and the author name.
-- Title - 44 characters or less
-- Description - "If you can’t explain it simply, you don’t understand it well enough." Provide a simplified and layman-accessible explanation of the IIP.
-- Motivation - The motivation should clearly explain why the existing system is inadequate to address the problem that the IIP solves.
-- Research - Showing test cases, examples or research of how and why the idea has worked before (in other projects or other walks of life) will help strengthen the case for the IIP as will doing any community research to guage whether the idea has support.  
+- **Preamble** - RFC 822 style headers containing metadata about the IIP, including the IIP number, a short descriptive title (limited to a maximum of 44 characters), and the author name.
+- **Title** - 44 characters or less
+- **Description** - "If you can’t explain it simply, you don’t understand it well enough." Provide a simplified and layman-accessible explanation of the IIP.
+- **Motivation** - The motivation should clearly explain why the existing system is inadequate to address the problem that the IIP solves.
+- **Research** - Showing test cases, examples or research of how and why the idea has worked before (in other projects or other walks of life) will help strengthen the case for the IIP as will doing any community research to guage whether the idea has support.  
 
 ## IIP Formats and Templates
 IIPs should be written in [markdown] format. Image files should be hosted externally e.g. using imgur.com and referenced that way.
