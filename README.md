@@ -8,6 +8,6 @@ IIPs are in no way affiliated with nor endorsed by ICONOMI - they're a community
 1. Review [IIP-1](https://github.com/ICNHodler/IIPs/blob/master/IIPS/iip-1.md).
 2. Fork the repository by clicking "Fork" in the top right.
 3. Add your IIP to your fork of the repository. There is a template EIP [here](https://github.com/ICNHodler/IIPs/blob/master/iip-X.md).
-4. Submit a Pull Request to ICNHodler's [EIPs repository](https://github.com/ICNHodler/IIPs).
+4. Submit a Pull Request to ICNHodler's [IIPs repository](https://github.com/ICNHodler/IIPs).
 
 When opening a pull request to submit your IIP, please use an abbreviated title in the filename, iip-title_abbrev.md. The title should be 40 characters or less. An IIP number will be assigned by an editor upon manually reviewing the pull request.
