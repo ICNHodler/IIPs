@@ -14,7 +14,7 @@ Note that an IIP number will be assigned by an editor. When opening a pull reque
 
 The title should be 44 characters or less.
 
-## Simple Summary
+## Description
 <!--Provide a simplified and layman-accessible explanation of the IIP.-->
 Provide a simplified and layman-accessible explanation of the IIP.
 
