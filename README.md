@@ -5,7 +5,7 @@ IIPs are in no way affiliated with nor endorsed by ICONOMI - they're a community
 
 # How to submit an IIP
 
-1. Review IIP-1.
+1. Review [IIP-1](https://github.com/ICNHodler/IIPs/blob/master/IIPS/IIP-001.md).
 2. Fork the repository by clicking "Fork" in the top right.
 3. Add your IIP to your fork of the repository. There is a template EIP here.
 4. Submit a Pull Request to ICNHodler's EIPs repository.
