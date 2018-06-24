@@ -39,7 +39,6 @@ There are four categories of IIP:
 Each IIP should have the following parts:
 
 - **Preamble** - RFC 822 style headers containing metadata about the IIP, including the IIP number, a short descriptive title (limited to a maximum of 44 characters), and the author name.
-- **Title** - 44 characters or less
 - **Description** - "If you can’t explain it simply, you don’t understand it well enough." Provide a simplified and layman-accessible explanation of the IIP.
 - **Motivation** - The motivation should clearly explain why the existing system is inadequate to address the problem that the IIP solves.
 - **Research** - Showing test cases, examples or research of how and why the idea has worked before (in other projects or other walks of life) will help strengthen the case for the IIP as will doing any community research to guage whether the idea has support.  
