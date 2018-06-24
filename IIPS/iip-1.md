@@ -90,4 +90,4 @@ The editors don't pass judgment on IIPs. We merely do the administrative & edito
 
 ## Hat-tip
 
-This document and concept in general was derived heavily from Ethereum's [EIP-1](Showing test cases, examples or research of how and why the idea has worked before (in other projects or other walks of life) will help strengthen the case for the IIP.  ) which was in turn derived from Bitcoin's BIP-0001 which in turn was derived from Python's PEP-0001. In many places text was simply copied and modified. We don't believe in reinventing wheels.
+This document and concept in general was derived heavily from Ethereum's EIP-1 which was in turn derived from Bitcoin's BIP-0001 which in turn was derived from Python's PEP-0001. In many places text was simply copied and modified. We don't believe in reinventing wheels.
