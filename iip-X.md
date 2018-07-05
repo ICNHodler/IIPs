@@ -1,5 +1,5 @@
 ---
-eip: to be assigned
+iip: to be assigned
 title: IIP title
 author: a list of the author's or authors' name(s) and/or username(s)
 status: Draft
