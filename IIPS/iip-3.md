@@ -1,10 +1,10 @@
 ---
-eip: to be assigned
+iip: 3
 title: Activity log of all DAA changes
 author: jesusthatsgreat
 status: Draft
 category: Platform
-created: 2018-07-06
+created: 2018-07-05
 ---
 
 <!--You can leave these HTML comments in your merged IIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new IIPs. Note that an IIP number will be assigned by an editor. When opening a pull request to submit your IIP, please use an abbreviated title in the filename, `iip-title_abbrev.md`. The title should be 44 characters or less.-->
