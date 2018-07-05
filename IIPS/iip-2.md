@@ -1,7 +1,7 @@
 ---
 iip: 2
 title: Improved Personal Performance Report Features
-author: @RayQuin
+author: RayQuin
 status: Draft
 category: Platform
 created: 2018-07-04
