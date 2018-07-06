@@ -32,8 +32,6 @@ Investors may also be more inclined to trust a DAA manager in the future if they
 
 ## Research
 <!--Showing test cases, examples or research of how and why the idea has worked before (in other projects or other walks of life) will help strengthen the case for the IIP.-->
-Showing test cases, examples or research of how and why the idea has worked before (in other projects or other walks of life) will help strengthen the case for the IIP.
-
 Version control is an essential tool for developers as among other things it helps to create timestamped history and helps with accountability and traceability. 
 
 Investors always want to feel more informed and providing them with a version-control-like system for DAAs would help them feel more informed, allow them to explore historical decisions (and judge the consequences) and it would also help to make DAA activity more transparent.
