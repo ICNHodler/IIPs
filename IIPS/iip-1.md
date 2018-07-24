@@ -52,7 +52,7 @@ Each IIP must begin with an RFC 822 style header preamble, preceded and followed
 
 ` iip:` <IIP number> (this is determined by the IIP editor)
 
-` title:` <IIP title> 
+` title:` <a short title for the IIP> 
 
 ` author:` <a list of the author's or authors' name(s) and/or username(s).>
 
