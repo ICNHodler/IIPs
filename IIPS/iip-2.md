@@ -7,7 +7,7 @@ category: Platform
 created: 2018-07-04
 ---
 
-<!--You can leave these HTML comments in your merged IIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new IIPs. Note that an IIP number will be assigned by an editor. When opening a pull request to submit your IIP, please use an abbreviated title in the filename, `iip-title_abbrev.md`. The title should be 44 characters or less.-->
+<!--You can leave these HTML comments in your merged IIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new IIPs. Note that an IIP number will be assigned by an editor. When opening a pull request to submit your IIP, please use an abbreviated title in the filename, `iip-title_abbrev.md`. The title should be 50 characters or less.-->
 
 ## Description
 <!--Provide a simplified and layman-accessible explanation of the IIP.-->
@@ -20,8 +20,6 @@ These upgrades have made it easier for users to assess the performance of the pe
 
 This IIP proposes unifying reported equity performance information and additionally providing the user with more powerful and varied tools to assess their equity performance, including comparing DAA performance at-a-glance with Bitcoin and Ethereum.
 
-Additionally, and potentially separately, this IIP proposes providing a periodic performance report allowing an at-a-glance update of all of a user's funds held on the ICONOMI platform. 
-
 
 ## Motivation
 <!-- The motivation should clearly explain why the existing system is inadequate to address the problem that the IIP solves. -->
@@ -33,15 +31,16 @@ However, not all information is available for all holdings on the platform - mos
 ##### Currently, a user can find the following information on their equity performance once logged into the ICONOMI platform:
 
 Current Portfolio total value - available on most pages.  
-Current aggregate Digital Asset and DAA values - available on portfolio page.  
+Current aggregate Digital Assets value and aggregate DAA values - available on portfolio page.  
 Individual DAA holding $/% profit/loss taken, current, and all time - available on individual DAA dashboard page.  
 Current Individual Digital Asset value - available on portfolio page.  
 
 ##### A user can not find:
 
 Historic Portfolio total value.  
-Historic aggregate Digital Asset and DAA values.  
-Historic Individual DAA holding profit/loss taken, current, and all time as measured against digital assets, such as BTC or ETH, rather than dollars.  
+Historic aggregate Digital Assets value and aggregate DAA values.  
+Historic Individual DAA holding profit/loss taken, current, and all time as measured against digital assets, such as BTC or ETH, rather than the Dollar.  
+Historic Individual DAA holding profit/loss taken, current, and all time as measured against other fiat currencies, such as the Euro, rather than the Dollar. 
 Historic Total Portfolio $/% profit/loss taken, current, and all time, and also as measured against digital assets, such as BTC/ETH.  
 Historic Individual Digital Asset value.  
 
@@ -49,15 +48,13 @@ Historic Individual Digital Asset value.
 
 ### 2. Charting and Comparison Tools
 On the 'Compare' tab on the ICONOMI platform, it is possible to compare any two DAAs with each other. It is not however possible to compare a DAA with an individual Digital Asset, such as Bitcoin or Ethereum.
-It may be an effective tool both for existing and prospective users to be able to easily access this information. Additionally, as this page is available without being logged into the platform, it would aid in creating a compelling pitch to new investors.
+It may be an effective tool both for existing and prospective users to easily access this information. Additionally, as this page is available without being logged into the platform, it would aid in creating a compelling pitch to new investors.
 
+If a DAA is consistently outperforming BTC/ETH over time, that should be shouted from the rooftops and used to explain the value and importance of diversification. If a DAA is consistently under-performing the market, then both potential investors and the DAA manager should be aware of that. Several DAA managers specifically say that their goal is to outperform the market - but right now neither they nor the community have an easy way of measuring performance and seeing whether they're achieving that goal or not.
 
 *This IIP proposes that the additional functionality of comparing DAAs to BTC and ETH will be a valuable feature for the platform and for its users.*
 
-### 3. Annual Report
-A periodic investor report is generally provided in the traditional fund management world, often annually or biannually. Adding a similar feature to ICONOMI would allow for easier user record/book-keeping.
-However, if the features from 1. and 2. are implemented onto the platform, such a report would have minimal additional utility. 
 
 ## Research
 <!--Showing test cases, examples or research of how and why the idea has worked before (in other projects or other walks of life) will help strengthen the case for the IIP.-->
-There is extensive precedent of annual investment performance reporting. Additionally, an industry-standard framework is available at [the CFA Institute's GIPS site](https://www.gipsstandards.org/Pages/index.aspx). Compliance with this will entrench ICONOMI's commitment to high standards.
+Having consulted with other members in the ICONOMI rocket.chat, there is general community support for these suggestions to be implemented on the ICONOMI platform. 
