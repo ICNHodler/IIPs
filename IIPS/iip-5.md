@@ -15,7 +15,7 @@ Hold an event every quarter to celebrate the burning of tokens as part of the re
 
 ## Motivation
 <!-- The motivation should clearly explain why the existing system is inadequate to address the problem that the IIP solves. -->
-ICN's value is derived primarily from buybacks and the quarterly burns are something every ICN hodler looks forward to. Currently, the amount of tokens to be burned is announced as part of quarterly reports however the actual token burn event time is seemingly random / unknown. 
+ICN's value is derived primarily from buybacks and the quarterly burns are something every ICN hodler looks forward to. Currently, the amount of tokens to be burned is announced as part of quarterly reports however the actual token burn event time is seemingly random / unknown and not celebrated in any way which I feel is a missed opportunity. 
 
 If there were a dedicated burning ritual / ceremony / event celebrating the burning of tokens, it would generate buzz within the community and also help to promote and explain buybacks to people who may not quite understand their importance or realise how they add value to ICN.  
 
