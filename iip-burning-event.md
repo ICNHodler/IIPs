@@ -1,6 +1,6 @@
 ---
 eip: to be assigned
-title: Host a burning event every quarter
+title: Host a token burning event every quarter
 author: jesusthatsgreat
 status: Draft
 category: Marketing
