@@ -29,6 +29,8 @@ Buybacks / burns are something a lot of people don't fully understand and apprec
 
 > The important thing is that for the token to have a stable value, it is highly beneficial for the token supply to have sinks - places where tokens actually disappear and so the total token quantity decreases over time. [source](https://vitalik.ca/general/2017/10/17/moe.html)
 
-The CEO of binance also recently said "I also learned a shocking amount of people still don’t understand the concept of "burn". Simply speaking, if someone destroys 10% of a currency (burn), that achieves the exact financial effect as spreading that 10% proportionally to the other 90% holders (usually called a dividend distribution). Some people seems to be (wrongly) happier with a dividend distribution than a burn, for no logical reason." [source](https://medium.com/binanceexchange/binance-q4-recap-80c1948ce123)
+The CEO of binance also recently said:
+
+>"I also learned a shocking amount of people still don’t understand the concept of "burn". Simply speaking, if someone destroys 10% of a currency (burn), that achieves the exact financial effect as spreading that 10% proportionally to the other 90% holders (usually called a dividend distribution). Some people seems to be (wrongly) happier with a dividend distribution than a burn, for no logical reason." [source](https://medium.com/binanceexchange/binance-q4-recap-80c1948ce123)
 
 Burning tokens is something that Vitalik & CZ feel the need to explain / justify in order to educate people on why it makes sense so what better way for Iconomi to do that by doing it live and making it a fun, once-a-quarter event which can be cited and referenced by anyone when talking about this model in the future. 
