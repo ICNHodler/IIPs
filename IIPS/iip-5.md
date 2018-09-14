@@ -1,5 +1,5 @@
 ---
-eip: to be assigned
+eip: 5
 title: Host a token burning event every quarter
 author: jesusthatsgreat
 status: Draft
