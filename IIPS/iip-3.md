@@ -2,7 +2,7 @@
 iip: 3
 title: Activity log of all DAA changes
 author: jesusthatsgreat
-status: Draft
+status: In Progress
 category: Platform
 created: 2018-07-05
 ---
