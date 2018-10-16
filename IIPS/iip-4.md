@@ -2,7 +2,7 @@
 iip: 4
 title: Establishing an ICONOMI Board of Directors
 author: Stephen
-status: Draft
+status: In Progress
 category: Operations
 created: 2018-07-13
 ---
@@ -20,3 +20,7 @@ Establishing a board of directors will ensure accountability by senior ICONOMI s
 ## Research
 <!--Showing test cases, examples or research of how and why the idea has worked before (in other projects or other walks of life) will help strengthen the case for the IIP.-->
 It is legal precedent in every first world jurisdiction that a publicly traded company has a board of directors that is elected by the shareholders. ICONOMI has stated that ICN tokens represent full ownership of all IP and assets. ICONOMI is a next generation publicly traded company and as such, following this old world standard will help ICONOMI as it attempts to grow in a fully regulated environment.
+
+## Updates
+
+ICONOMI announced plans to restructure the company and ICN token starting from November 2018 ([source](https://medium.com/iconominet/a-new-chapter-for-iconomi-transformation-of-corporate-governance-and-issuance-of-equity-tokens-dc603df2272b)). eICN token holders will be shareholders of a new company and will have voting rights. The company will also need a board of directors so this IIP can be considered in progress.
