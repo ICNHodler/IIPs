@@ -1,5 +1,5 @@
 ---
-iip: 
+iip: 7
 title: DAA comparisons against BTC and ETH 
 author: RayQuin
 status: Draft
