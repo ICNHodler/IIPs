@@ -1,6 +1,6 @@
 ---
 iip: 2
-title: Historic user portfolio tracking: total, aggregate digital assets and DAAs 
+title: Historic user portfolio tracking; total, aggregate digital assets and DAAs 
 author: RayQuin
 status: In Progress
 category: Platform
