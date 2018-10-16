@@ -1,5 +1,5 @@
 ---
-iip: 
+iip: 6
 title: Adding BTC, ETH and EUR as a tracking mechanism for portfolio values
 author: RayQuin
 status: Draft
